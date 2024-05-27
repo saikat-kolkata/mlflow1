@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/personal/peronal_projects/mlflow/mlruns/0/64a3d4282e2e4dd0b76a2170afe1506a/artifacts
+end_time: 1716816743156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64a3d4282e2e4dd0b76a2170afe1506a
+run_name: abundant-shoat-542
+run_uuid: 64a3d4282e2e4dd0b76a2170afe1506a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716816735138
+status: 3
+tags: []
+user_id: saika
